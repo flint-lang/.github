@@ -5,3 +5,4 @@ Flint is a high‐level, statically‐typed language designed to deliver maximum
 **Power, made simple.**
 
 Look at the Wiki to get started with Flint: [https://flint-lang.github.io/](https://flint-lang.github.io/)
+or have a look at the Roadmap: [https://github.com/orgs/flint-lang/projects/6](https://github.com/orgs/flint-lang/projects/6)
